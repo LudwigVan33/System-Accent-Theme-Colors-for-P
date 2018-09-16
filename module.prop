@@ -1,0 +1,7 @@
+id=sap
+name=System Accents for P
+version=v1.0
+versionCode=1
+author=Ludwig33
+description=Simple module to add some system accent theme colors to your alpha android P custom rom. Files are pushed to /system/vendor/overlay.
+minMagisk=17000
