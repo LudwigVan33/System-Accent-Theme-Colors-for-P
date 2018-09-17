@@ -3,5 +3,5 @@ name=System Accent Theme (Colors) for P
 version=v1.0
 versionCode=1
 author=Ludwig33
-description=Simple module to add some system accent theme colors to your alpha android P custom rom. Files are pushed to /system/vendor/overlay.
+description=Simple module to add some system accent theme colors to your android P custom rom, after flash though magisk and reboot go to Settings> Display> Color theme. Files are pushed to /system/vendor/overlay.
 minMagisk=17000
